@@ -1,0 +1,8 @@
+Model Information:
+* title:	Kwik-E-Mart
+* source:	https://sketchfab.com/3d-models/kwik-e-mart-4b536820cec84e3bafd45f7580ff33cf
+* author:	GhostDev (https://sketchfab.com/GhostDevReal)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
